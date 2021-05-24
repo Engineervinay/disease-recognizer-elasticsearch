@@ -1,0 +1,32 @@
+{
+  "engineName": "disease-recognition",
+  "endpointBase": "https://enterprise-search-deployment-28a6ec.ent.asia-south1.gcp.elastic-cloud.com",
+  "searchKey": "search-nqe3imveitbb3nt3ocuxh6t4",
+  "resultFields": [
+    "disease",
+    "sym",
+    "sympt",
+    "sym7",
+    "symptom_6",
+    "symptom_7",
+    "symptom_8",
+    "symptom_9",
+    "symptom_5",
+    "sym5",
+    "sym6",
+    "sym3",
+    "sym4",
+    "sym1",
+    "sympto",
+    "sym2",
+    "symp",
+    "sym0",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ]
+}
